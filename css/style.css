@@ -1,14 +1,15 @@
+/*Google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap');
 
 
-.inter-unique {
-    font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: normal;
-    font-style: normal;
-  }
-  .macondo-regular {
-    font-family: "Macondo", cursive;
+body { font-family: "inter", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+
+}
+  h1 {
+    font-family: "Macondo", sans-serif;
     font-weight: 400;
     font-style: normal;
   }
-  
