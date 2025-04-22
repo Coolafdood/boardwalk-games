@@ -112,3 +112,9 @@ h2 {
         min-height: 195px;
     }
 }
+/* Game library cards */
+
+#new-games .card,
+#fav-games .card {
+    border: none;
+}
